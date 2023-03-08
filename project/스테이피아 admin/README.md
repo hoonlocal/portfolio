@@ -1,5 +1,8 @@
 # 스테이피아 admin
-<img src="https://user-images.githubusercontent.com/48729083/223733651-af17387e-3bd9-4be1-b374-2e92486e961f.png" width="500" />
+<img src="https://user-images.githubusercontent.com/48729083/223744214-1fba216d-9f2f-43b4-8930-34098d0b9375.png" width="500" />
+<img src="https://user-images.githubusercontent.com/48729083/223744233-d2f109b4-d98a-4655-86f0-d494eb497eac.png" width="500" />
+<img src="https://user-images.githubusercontent.com/48729083/223744255-a1fc0bdf-1fa3-4962-b95b-ddf127147ca1.png" width="500" />
+<img src="https://user-images.githubusercontent.com/48729083/223744268-f42791f3-daaf-44ef-9b79-63721d885bac.png" width="500" />
 
 ## Summary
 스테이피아의 쿠폰, 가격, 예약, 고객, 문의, 정산 등을 전반적으로 관리하는 admin 페이지입니다.
