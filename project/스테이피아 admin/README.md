@@ -40,6 +40,7 @@
 
 ## Performance
 + Github Actions 워크플로우를 통해 개발서버 배포시간을 35% 단축했음(17분 > 6분)
+  - [Github Actions 배포시간 단축](https://github.com/hoonlocal/TIL/blob/main/trouble-shooting/Github_Actions_%EB%B0%B0%ED%8F%AC%EC%8B%9C%EA%B0%84_%EB%8B%A8%EC%B6%95.md)
 + 쿠폰 발급 어드민 페이지를 개발해 관리자들의 업무 효율성을 증가시킴
 + Blue/Green 배포 자동화 프로세스를 구축해 서비스의 배포 안정성과 팀원들의 생산성을 향상시킴
 
